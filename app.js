@@ -32,4 +32,4 @@ const products={
 //5.
 console.log(
    ' Phone name is ${phoneName}, phone price is ${phoneprice}, and you can buy it at ${shopAddresses}'
-);//ar gamatara
+);//ar gamatarA:(
