@@ -30,6 +30,5 @@ const products={
     phoneMemoryInGB:32,
 };
 //5.
-console.log(
-   ' Phone name is ${phoneName}, phone price is ${phoneprice}, and you can buy it at ${shopAddresses}'
-);//ar gamatarA:(
+console.log (`Phone name is ${products.phoneName}, phone price is ${products.phoneprice}, and you can buy it at ${products.shopAddresses}`    
+);
